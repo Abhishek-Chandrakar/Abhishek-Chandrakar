@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Chandrakar</h1>
-<h3 align="center">A passionateA BTech student and aspiring frontend developer with a love for coding. frontend developer from India</h3>
+<h3 align="center">A passionate BTech student and aspiring frontend developer with a love for coding. frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-chandrakar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-chandrakar" /> </p>
 
